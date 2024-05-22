@@ -1,2 +1,2 @@
-int a = 0;
-int b = 1;
+string a = ftuh96t138;
+string b = n7j1qnts5g4;
