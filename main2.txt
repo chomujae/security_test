@@ -1,2 +1,2 @@
-int a = dddggggasah2
-int b = --remove--
+int a = 
+int b = 
